@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# BiblioTXT
+# Una biblioteca TXT para tod@s
 
 Los archivos de texto fueron parte importante de la internet pre-2000. Primero compartidos a través de Bulletin Board Systems y posteriormente en páginas web, documentaron gran parte de la actividad cibernética del siglo XX (y pequeña parte del XXI).
 
