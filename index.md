@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*AVISO: A la brevedad, se podrá acceder a los archivos a través de esta página y subiremos un mail de contacto*
+*AVISO: A la brevedad, se podrá acceder a los archivos a través de esta página y subiremos un mail de contacto. Por el momento, se puede acceder a los textos aquí: [bibliotxt](https://github.com/bibliotxt/bibliotxt)*
 
 # Una biblioteca TXT para todxs
 
