@@ -10,6 +10,6 @@ El proyecto _BiblioTXT_ busca compilar los archivos de texto en español que cir
 
 Para lograr esto, necesitamos la ayuda de **tod@s**. En primer lugar, pedirle a tod@ aquel que tenga un archivo de texto de esta índole que nos sea enviado, ya sea via mail o repositorio. Para aquell@s contribuyentes con algo de experiencia informática, hemos creado un repositorio en github al cual, mediante pull requests, se podrán subir archivos de texto organizados en diferentes categorias.
 
-El proyecto está fuertemente inspirado en su análogo en inglés [http://textfiles.com/], y reutilizará muchas de las categorias a modo de organización de la biblioteca.
+El proyecto está fuertemente inspirado en su análogo en inglés [textfiles.com](http://textfiles.com/), y reutilizará muchas de las categorias a modo de organización de la biblioteca.
 
 A la brevedad subiremos un mail de contacto.
