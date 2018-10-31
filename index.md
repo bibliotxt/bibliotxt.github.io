@@ -6,6 +6,8 @@ layout: default
 
 # Una biblioteca TXT para todxs
 
+Un archivo de texto plano (plain text) es aquel que no posee ningún formato y está formado exclusivamente por caracteres. La extensión popularizada de los mismos es '.txt'.
+
 Los archivos de texto fueron parte importante de la internet pre-2000. Primero compartidos a través de Bulletin Board Systems y posteriormente en páginas web, documentaron gran parte de la actividad cibernética del siglo XX (y también parte del XXI).
 
 El proyecto _BiblioTXT_ busca compilar los archivos de texto en español que circularon masivamente por la red en otro tiempo, categorizarlos y brindar al público una forma de acceso rápida a los mismos. De esta manera cualquier interesado (desde historiadores hasta simples curiosos) podrá viajar mediante la lectura a los primeros tiempos de la red.
