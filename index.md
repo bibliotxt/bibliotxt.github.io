@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*AVISO: A la brevedad, se podrá acceder a los archivos a través de esta página y subiremos un mail de contacto*
+
 # Una biblioteca TXT para todxs
 
 Los archivos de texto fueron parte importante de la internet pre-2000. Primero compartidos a través de Bulletin Board Systems y posteriormente en páginas web, documentaron gran parte de la actividad cibernética del siglo XX (y también parte del XXI).
@@ -15,5 +17,3 @@ Del mismo modo, también busca compilar los archivos de texto actuales, ya que h
 Para lograr esto, necesitamos la ayuda de **todxs**. En primer lugar, aquellxs que tengan un archivo de texto de esta índole nos lo pueden enviar, ya sea via mail o repositorio. Para aquellxs contribuyentes con algo de experiencia informática, hemos creado un repositorio en github al cual, mediante pull requests, se podrán subir archivos de texto organizados en diferentes categorias.
 
 El proyecto está fuertemente inspirado en su análogo en inglés [textfiles.com](http://textfiles.com/), y reutilizará muchas de sus categorias a modo de organización de la biblioteca.
-
-A la brevedad subiremos un mail de contacto.
