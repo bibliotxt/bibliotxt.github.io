@@ -10,6 +10,6 @@ Del mismo modo, también busca compilar los archivos de texto actuales, ya que h
 
 ## ¿cómo puedo contribuir?
 
-Para lograr esto, necesitamos la ayuda de **todxs**. En primer lugar, aquellxs que tengan un archivo de texto de esta índole nos lo pueden enviar, ya sea via [mail](bibliotxt@riseup.net) o repositorio. Para aquellxs contribuyentes con algo de experiencia informática, hemos creado un repositorio en github al cual, mediante pull requests, se podrán subir archivos de texto organizados en diferentes categorias.
+Para lograr esto, necesitamos la ayuda de **todxs**. En primer lugar, aquellxs que tengan un archivo de texto de esta índole nos lo pueden enviar, ya sea via mail (<bibliotxt@riseup.net>) o repositorio (<https://github.com/bibliotxt/bibliotxt>). Para aquellxs contribuyentes con algo de experiencia informática, hemos creado un repositorio en github al cual, mediante pull requests, se podrán subir archivos de texto organizados en diferentes categorias.
 
 El proyecto está fuertemente inspirado en su análogo en inglés [textfiles.com](http://textfiles.com/), y reutilizará muchas de sus categorias a modo de organización de la biblioteca.
